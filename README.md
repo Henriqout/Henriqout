@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Henriqout
-- 👀 I’m interested in Python | Kotlin and SQL
+- 👀 I’m interested in Python | SQL
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on a project that require both back and front-end
 - 📫 How to reach me luizhenriquedb876@gmail.com
